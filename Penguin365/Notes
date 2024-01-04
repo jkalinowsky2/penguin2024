@@ -1,0 +1,46 @@
+To do:
+
+Update csv file with varying numbers
+
+//Create moon?
+ 
+
+shooting star
+
+change star count to read from prior day if before noon
+altitude of sun in sky?
+
+shallower sun arc in sky for longer days. Mapping not working.
+
+
+create colors
+create color combos
+    - day
+    - nights
+
+    in CSV file, values for sky color Day and AM can be set independently (not equal to next day value)
+
+
+
+
+
+
+Try to improve color transition from night to day - crossfader function - done
+clouds at night - no
+pink and pink on kerri's birthday - done
+check vertOffset of stars. Not referenced? - done
+schedule starlinks...repeat 90 minutes later - done
+check iceColor swich iceC21 iceC22 not working? - done
+
+sun cycle
+september - march = continuous daylight
+december 21 =  peak of continuous sunlight
+
+march - september = continuous darkness
+june 21 = peak of continuous darkness
+
+
+
+
+
+
